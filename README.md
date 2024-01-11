@@ -1,3 +1,2 @@
-# Projects_DatabaseDesign
-Chemical Research Database design document. Includes logical & conceptual design, with data modelled in the Visual Paradigm software.
-https://www.visual-paradigm.com/
+Relational database for a chemical research company designed in SQL. 
+Includes logical & conceptual design along with MySQL implementation.
